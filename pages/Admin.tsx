@@ -20,7 +20,7 @@ interface ContentSection {
 }
 
 const IMGBB_API_KEY = '3fe23f04634c89761107ceec0ae1714f';
-const ADMIN_SECRET_CODE = 'TLR-2026-ADMIN-9X7K'; // Kode rahasia admin
+const ADMIN_SECRET_CODE = '21122109'; // Kode rahasia admin
 
 const Admin: React.FC<AdminProps> = ({ articles, onAddArticle, onDeleteArticle }) => {
   const navigate = useNavigate();
