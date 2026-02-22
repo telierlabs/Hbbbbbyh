@@ -26,7 +26,7 @@ const Contact: React.FC = () => {
         </div>
         <div className="border border-gray-100 rounded-2xl p-6">
           <p className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-1">WhatsApp</p>
-          <a href="https://wa.me/6282112345678" className="text-lg font-bold hover:underline">+62 821 1234 5678</a>
+          <a href="https://wa.me/6282112345678" className="text-lg font-bold hover:underline">+62 895 3861 24485</a>
         </div>
       </div>
     </div>
