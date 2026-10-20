@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin-login
+Disallow: /profile
+
+Sitemap: https://www.teliernews.com/sitemap.xml
+Sitemap: https://www.teliernews.com/news-sitemap.xml
